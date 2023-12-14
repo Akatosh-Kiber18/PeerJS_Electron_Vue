@@ -1,0 +1,8 @@
+THIS IS THE TEST OF PEER-TO-PEER CONNECTION BETWEEN THE ELECTRON AND VUEJS PROJECTS
+
+Install the 
+
+Run peerjs server by doc:
+https://github.com/peers/peerjs-server?tab=readme-ov-file#run-server
+
+In each folder use npm install and run them npm run dev for VUE and npm start for Electron. Check logs in the consoles.
